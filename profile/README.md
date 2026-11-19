@@ -14,11 +14,11 @@ We provide a collection of freely accessible, vendor-independent guides designed
 
 | Repository | What it covers |
 | --- | --- |
-| [awesome-freelancer-payments](https://github.com/FlowPayroll/awesome-freelancer-payments) | Curated list of ways freelancers get paid internationally |
-| [usdt-payments-handbook](https://github.com/FlowPayroll/usdt-payments-handbook) | USDT on TRC20 / ERC20 / BEP20 — networks, fees, safety, cashing out |
-| [freelance-invoice-templates](https://github.com/FlowPayroll/freelance-invoice-templates) | Free invoice templates, including crypto and printable formats |
-| [get-paid-internationally](https://github.com/FlowPayroll/get-paid-internationally) | Country-by-country notes on receiving international payments |
-| [payrollflow-use-cases](https://github.com/FlowPayroll/payrollflow-use-cases) | How different kinds of freelancers set things up |
+| [flowpayroll-freelancer-payments](https://github.com/FlowPayroll/flowpayroll-freelancer-payments) | Curated list of ways freelancers get paid internationally |
+| [comprehensive-guide-to-usdt-payments](https://github.com/FlowPayroll/Comprehensive-Guide-to-USDT-Payments) | USDT on TRC20 / ERC20 / BEP20 — networks, fees, safety, cashing out |
+| [flowpayroll-freelancer-invoice-templates](https://github.com/FlowPayroll/flowpayroll-freelancer-invoice-templates) | Free invoice templates, including crypto and printable formats |
+| [receiving-global-payments](https://github.com/FlowPayroll/receiving-global-payments) | Country-by-country notes on receiving international payments |
+| [flowpayroll-practical-application-use-cases](https://github.com/FlowPayroll/flowpayroll-practical-applications-use-case) | How different kinds of freelancers set things up |
 
 ## Company
 
